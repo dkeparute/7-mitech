@@ -10,7 +10,7 @@
 #### This web-site design has born for educational purposes only. Pull requests are welcome. Thank you for your comprehension!
 
 
-Site published at: 
+Site published at: https://dkeparute.github.io/7-mitech/
 
 Design: ["Mitech"](https://demo.hasthemes.com/mitech-preview/index-infotechno.html)
 
