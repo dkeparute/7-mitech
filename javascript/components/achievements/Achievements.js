@@ -1,0 +1,1 @@
+// jei pirma raide didzioji tai bus objektinis programavimo stilius

@@ -1,0 +1,1 @@
+// // jei pirma raide mazoji tai bus funkcinis programavimo stilius
