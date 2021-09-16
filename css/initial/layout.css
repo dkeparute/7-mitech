@@ -1,5 +1,45 @@
 .container {
     display: inline-block;
     width: 100%;
+    padding: 20px;
 }
+
 /* web site is created from mobile version */
+
+.container>.row {
+    display: inline-block;
+    width: 100%;
+}
+
+.container>.row>.col-12 {
+    width: 100%;
+    float: left;
+}
+/*  brake pointai pritaikomi telefonui, plancetei, desktopui */
+
+@media (min-width:575px) {
+    .container>.row {
+    
+    }
+}
+@media (min-width:767px) {
+    container>.row>.col-md-6 {
+        width: 50%;
+        float: left;
+    }
+}
+@media (min-width:991px) {
+    .container>.row {
+    
+    }
+}
+@media (min-width:1199px) {
+    .container>.row {
+    
+    }
+}
+@media (min-width:1399px) {
+    .container>.row {
+    
+    }
+}
