@@ -12,7 +12,24 @@
     cursor: pointer;
     user-select: none;
 }
+
 /* ŠEŠĖLIO SUKŪRIMAS */
+
 .btn:hover {
-   box-shadow: 0px 4px 8px 1px #0003 ;
+    box-shadow: 0px 4px 8px 1px #0003;
+}
+
+/* PAPILDOPMO MYGTUKO SUKURIMAS SU YPATINGU STILIUMI -BŪTENT RAŠOMA ČIA JEIGU BUS NORAS PERNAUDOTI */
+
+.btn.white {
+    background-color: #fff;
+    color: var(--blue-color);
+}
+
+.btn.cream {
+    background-color: #D2A88F;
+    color:#fff;
+}
+.btn.cream:hover {
+   background-color: var(--blue-color);
 }
