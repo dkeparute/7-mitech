@@ -1,0 +1,15 @@
+.bg-creame {
+    background-color: var(--cream-color);
+}
+.bg-blue {
+    background-color: var(--blue-color);
+}
+.bg-grey {
+    background-color: var(--grey-color);
+}
+.bg-light-blue {
+    background-color: var(--light-blue-color);
+}
+.bg-dark-blue {
+    background-color: var(--dark-blue-color);
+}

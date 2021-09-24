@@ -1,3 +1,4 @@
+/* RESPONSIVE DESIGN */
 :root {
     --half-gap: 10px;
     --gap: calc(2 * var(--half-gap));
