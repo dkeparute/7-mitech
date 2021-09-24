@@ -52,5 +52,5 @@
 .bottom-text-link>a {
     color: var(--blue-color);
     text-decoration: none;
-    border-bottom: 1px var(--grey-color);
+    border-bottom: 3px solid #918f8f;
 }
