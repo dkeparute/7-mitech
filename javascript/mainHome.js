@@ -26,7 +26,8 @@ import { services } from "./components/services/services.js";
 /* clients */
 
 /* services */
-services(servicesData);
+// KUR IR KOKIAIS DUOMENIMIS NAUDOSIUOS
+services("#services_block", servicesData);
 
 /* about company */
 /* hire us */
